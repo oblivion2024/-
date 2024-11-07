@@ -1,0 +1,54 @@
+/* common.css */
+page {
+  font-size: 28rpx;
+  line-height: 1.5;
+  background-color: #f0f2f5;
+}
+
+.container {
+  padding: 20rpx;
+}
+
+.card {
+  background-color: #ffffff;
+  border-radius: 16rpx;
+  box-shadow: 0 4rpx 12rpx rgba(0, 0, 0, 0.1);
+  margin-bottom: 20rpx;
+}
+
+.card-header {
+  padding: 24rpx;
+  border-bottom: 2rpx solid #e5e5e5;
+}
+
+.card-title {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+}
+
+.card-content {
+  padding: 24rpx;
+}
+
+.input {
+  border: 2rpx solid #e5e5e5;
+  border-radius: 8rpx;
+  padding: 16rpx;
+  font-size: 28rpx;
+  margin-bottom: 16rpx;
+}
+
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border-radius: 8rpx;
+  padding: 16rpx 32rpx;
+  font-size: 28rpx;
+  font-weight: bold;
+  text-align: center;
+}
+
+.button:active {
+  opacity: 0.8;
+}
